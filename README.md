@@ -15,9 +15,9 @@ I design and develop clean, intuitive digital experiences across web, mobile, da
 
 ## About me
 
-I’m currently expanding my skills in **robotics, blockchain, AI, and data engineering** while continuing to build user-focused software that feels modern, reliable, and easy to use.
+I’m a developer who focuses on building clean, user-friendly mobile and web applications. I have experience with full-stack development, React Native, and Android/iOS apps. I’ve worked on user interfaces, real-time dashboards, and cloud-based apps. I’m especially interested in blockchain and building scalable, modern applications. I’m currently pursuing a Master’s in Information Technology at Nova Southeastern University, where I’m learning more about systems architecture, blockchain, and data engineering. With a background in Psychology and Communications, I bring a user-focused approach to development and aim to create simple, intuitive, and reliable digital experiences. My goal is to build modern apps and platforms that are both high-quality and easy to use.
 
-With a background in **Psychology and Communications**, I bring a human-centered perspective to development — combining technical execution with empathy, clarity, and product thinking.
+https://github.com/MaxKarltun
 
 ## Featured qualities
 
